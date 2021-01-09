@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config-airbnb",
+  "version": "1.0.0",
+  "description": "A Prettier configuration based on the Airbnb JavaScript style guide",
+  "keywords": [
+    "prettier",
+    "config",
+    "airbnb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austrokhart/prettier-config-airbnb"
+  },
+  "license": "MIT",
+  "author": "austrokhart",
+  "main": "lib/.prettierrc.json"
+}
